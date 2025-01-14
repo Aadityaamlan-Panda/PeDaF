@@ -1,7 +1,7 @@
 Flask
 requests
 cohere
-azure-ai-vision
+azure-cognitiveservices-vision-computervision
 azure-ai-textanalytics
 azure-core
 Pillow
