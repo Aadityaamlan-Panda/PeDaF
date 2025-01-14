@@ -1,0 +1,7 @@
+Flask
+requests
+cohere
+azure-ai-vision
+azure-ai-textanalytics
+azure-core
+Pillow
